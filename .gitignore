@@ -59,8 +59,8 @@ temp/
 *.temp
 
 # Generated documentation only
-# Regular project documentation (*.md) remains trackable, including README.md,
-# overview.md, and FRONTEND_AGENT_GUIDE.md.
+# Regular project documentation (*.md) remains trackable, including README.md.
+FRONTEND_AGENT_GUIDE.md
 *.generated.md
 *.generated.markdown
 docs/_build/
